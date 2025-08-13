@@ -1,4 +1,4 @@
-GermiTrack Desktop v1.4
+GermiTrack Desktop v1.4 
 Smart Analysis for Germination Data
 <img width="432" height="433" alt="image" src="https://github.com/user-attachments/assets/5f7683f7-a413-49c1-9684-9fa179b6a625" />
 
