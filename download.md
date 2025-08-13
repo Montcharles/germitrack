@@ -9,7 +9,7 @@ The latest version of the executable is available at the link below:
 ## 📖 User Guide
 
 For detailed installation and usage instructions, please refer to the  
-[**User Guide (PDF)**].
+[**GermiTrack User Guide.(pdf)**].
 
 ---
 
