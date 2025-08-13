@@ -1,5 +1,6 @@
 GermiTrack Desktop v1.4
 Smart Analysis for Germination Data
+<img width="432" height="433" alt="image" src="https://github.com/user-attachments/assets/5f7683f7-a413-49c1-9684-9fa179b6a625" />
 
 Overview
 GermiTrack is a professional desktop application for the statistical analysis of seed germination experiments. It automates the calculation of all major germination parameters, generates publication-ready charts, and exports comprehensive results in Excel and CSV formats. Designed for researchers, agronomists, and seed technologists, GermiTrack delivers robust, reproducible, and transparent germination data analysis.
